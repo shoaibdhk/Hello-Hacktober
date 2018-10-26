@@ -5,6 +5,9 @@ public class HelloWorld {
         //Hacktoberfest is best
         //btw hello world
         System.out.println("Hello, World");
+        
+        // Print without a line
+        System.out.print("Hello world!");
     }
 
 }
